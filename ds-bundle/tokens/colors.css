@@ -1,0 +1,25 @@
+:root {
+  /* Brand */
+  --alti-white: #ffffff;
+  --alti-blue-900: #034885; /* secundária - azul institucional */
+  --alti-blue-500: #1f7cd7; /* secundária - azul de destaque */
+  --alti-blue-700: #0a5fae;
+  --alti-blue-100: #dbeaf9;
+  --alti-blue-50: #eef5fc;
+  --alti-ink: #0b1f33;
+  --alti-gray-600: #4a5b6c;
+  --alti-gray-300: #c9d3dd;
+  --alti-gray-100: #f2f5f8;
+
+  /* Semantic */
+  --color-bg: var(--alti-white);
+  --color-bg-subtle: var(--alti-gray-100);
+  --color-bg-brand: var(--alti-blue-900);
+  --color-text: var(--alti-ink);
+  --color-text-muted: var(--alti-gray-600);
+  --color-text-on-brand: var(--alti-white);
+  --color-primary: var(--alti-blue-900);
+  --color-accent: var(--alti-blue-500);
+  --color-border: var(--alti-gray-300);
+  --color-focus: var(--alti-blue-500);
+}
